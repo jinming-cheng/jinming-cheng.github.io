@@ -2,7 +2,7 @@
 title: "Exploring mammary gland developmental stages and breast cancer heterogeneity using single-cell technologies"
 collection: talks
 type: "Talk"
-permalink: /talks/210825_WEHI_Masterclass
+permalink: /talks/240618_PhD_Completion_Seminar
 venue: "The Walter and Eliza Hall Institute of Medical Research"
 date: 2024-06-18
 location: "Melbourne, Australia"

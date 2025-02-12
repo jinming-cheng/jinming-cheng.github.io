@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bioinformatics, WEHI, The University of Melbourne, 2020-2024
-* M.S. in Bioinformatics, Shanghai Jiao Tong University, 2015-2018
-* B.S. in Bioinformatics, Huazhong University of Science and Technology, 2011-2015
+* PhD in Bioinformatics, WEHI, The University of Melbourne, 2020-2024
+* M.Sc. in Bioinformatics, Shanghai Jiao Tong University, 2015-2018
+* B.Eng. in Bioinformatics, Huazhong University of Science and Technology, 2011-2015
 
 Work Experience
 ======
@@ -33,10 +33,11 @@ Skills
 * Bioinformatics
 * Gene Expression
 * Single Cell Sequencing
+* Spatial transcriptomics
 * DNA Methylation
 * Shell, R and Rmarkdown
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
