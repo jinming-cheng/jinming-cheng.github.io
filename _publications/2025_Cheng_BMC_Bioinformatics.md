@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025_Cheng_BMC_Bioinformatics
 excerpt: 'This paper is about benchmarking five different reference-based cell type annotation methods for 10x Xenium data.'
 date: 2025-01-20
-venue: 'F1000 Research'
+venue: 'BMC Bioinformatics'
 paperurl: 'https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06044-0'
 citation: 'Cheng, J., Jin, X., Smyth, G. K., and Chen, Y. (2025). &quot;Benchmarking cell type annotation methods for 10x Xenium spatial transcriptomics data.&quot; <i>BMC Bioinformatics</i>. 26(1), 22.'
 ---
