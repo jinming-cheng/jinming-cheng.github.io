@@ -32,7 +32,7 @@ Skills
 ======
 * Bioinformatics
 * Gene Expression
-* Single Cell Sequencing, 
+* Single Cell Sequencing
 * DNA Methylation
 * Shell, R and Rmarkdown
 
