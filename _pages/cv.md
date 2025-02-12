@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatics, WEHI, The University of Melbourne, 2020-2024
+* M.S. in Bioinformatics, Shanghai Jiao Tong University, 2015-2018
+* B.S. in Bioinformatics, Huazhong University of Science and Technology, 2011-2015
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019.07-2020.05: Intern
+  * CAS-MPG Partner Institute for Computational Biology, Shanghai, China
+  * Duties includes: Analyzing WGS and RNA-seq data of pancreatic cancer
+  * Supervisor and collaborators: Dr Liyun Yuan, Prof Guoqing Zhang and Prof Wu Wei.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.08-2019.05: Scientific Visitor
+  * European Molecular Biology Laboratory, Heidelberg, Germany
+  * Duties includes: Exploring factors influencing editing efficiency of CRISPR-Cas9 sgRNA
+  * Supervisor and collaborators: Prof [Lars Steinmetz](https://scholar.google.com/citations?user=mP_NR74AAAAJ&hl=en), Dr Shengdi Li, Dr [Sibylle Vonesch](https://scholar.google.de/citations?user=zY8I5PcAAAAJ&hl=en)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics
+* Gene Expression
+* Single Cell Sequencing, 
+* DNA Methylation
+* Shell, R and Rmarkdown
 
 Publications
 ======
@@ -59,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
