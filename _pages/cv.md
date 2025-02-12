@@ -20,7 +20,7 @@ Work Experience
 * 2019.07-2020.05: Intern
   * CAS-MPG Partner Institute for Computational Biology, Shanghai, China
   * Duties includes: Analyzing WGS and RNA-seq data of pancreatic cancer
-  * Supervisor and collaborators: Dr Liyun Yuan, Prof Guoqing Zhang and Prof Wu Wei.  
+  * Supervisor and collaborators: Dr Liyun Yuan, Prof Guoqing Zhang and Prof [Wu Wei](https://scholar.google.com/citations?hl=en&user=HaPNtVAAAAAJ).  
 
 * 2018.08-2019.05: Scientific Visitor
   * European Molecular Biology Laboratory, Heidelberg, Germany
