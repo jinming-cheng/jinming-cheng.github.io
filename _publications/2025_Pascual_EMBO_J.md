@@ -2,7 +2,7 @@
 title: "Fibroblast hierarchy dynamics during mammary gland morphogenesis and tumorigenesis"
 collection: publications
 category: manuscripts
-permalink: /publication/2025_Pascual_EMBO_J.md
+permalink: /publication/2025_Pascual_EMBO_J
 excerpt: 'This paper reveals the fibroblast subpopulations in mouse mammary gland and fibroblast changes during mammary tumor development.'
 date: 2025-04-11
 venue: 'The EMBO Journal'
